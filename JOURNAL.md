@@ -14,12 +14,14 @@
 
 ## Contents
 
-1. [2026-10-05 — Work session](#2026-10-05-work-session)
+1. [2026-10-05 — I tried to understand the basics of KiCAD and how to place the components in the schematic editor. I struggled a little to figure out the basics (such as placing wires and importing footprints). I lea](#2026-10-05-i-tried-to-understand-the-basics-of-kicad-and-how)
 
 ## Design
 
-### 2026-10-05 — Work session
+### 2026-10-05 — I tried to understand the basics of KiCAD and how to place the components in the schematic editor. I struggled a little to figure out the basics (such as placing wires and importing footprints). I lea
 
 **1.42h**
+
+I tried to understand the basics of KiCAD and how to place the components in the schematic editor. I struggled a little to figure out the basics (such as placing wires and importing footprints). I learned how to make a schematic diagram of the different components (pressing A in order to add a new component and P for power supply/grounding). Learning how to connect the wires without it going all over the place took some trial and error but I eventually figured out the best way was to finish a wire before doing the next connection. I also researched what the individual components were and what they did. Importing the footprint gave me a bit of trouble but I eventually figured it out through troubleshooting online.
 
 [Timelapse](https://lookout.hackclub.com/api/media/ce72520b-664d-4dcd-85bb-09707065056e/video.mp4)
