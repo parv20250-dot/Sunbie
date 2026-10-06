@@ -38,3 +38,5 @@ Figured out how to get the star shape (after an INCREDIBLE amount of trial and e
 ![Annotation 2026-10-06 193950](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/c0ef0aedc78d78b1554fe8b5dc301de032fe45cc16604ef1f4aac66d3cdb1e66.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/c0c7d37a-8991-4613-9339-14d19b9ba238/video.mp4)
+
+[Timelapse](https://lookout.hackclub.com/api/media/4497196b-80ec-4300-9997-694cf8f50fdf/video.mp4)
