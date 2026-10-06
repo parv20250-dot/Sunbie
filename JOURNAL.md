@@ -10,12 +10,12 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 2.92h | 2 |
+| Week 1 | Tier 1 | 3.42h | 2 |
 
 ## Contents
 
 1. [2026-10-05 — I tried to understand the basics of KiCAD and how to place the components in the schematic editor. I struggled a little to figure out the basics (such as placing wires and importing footprints). I lea](#2026-10-05-i-tried-to-understand-the-basics-of-kicad-and-how)
-2. [2026-10-05 — Figured out how to get the star shape (after an INCREDIBLE amount of trial and error). Arranged the components onto the star shape and connected them. The star is easier to draw if I use a polygon ins](#2026-10-05-figured-out-how-to-get-the-star-shape-after-an-in)
+2. [2026-10-05 — ![1000155672](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/92251555f3957d78a70c01924e71d22dd3e241a4bb779d50a810ba5f92f82fa7.jpg)](#2026-10-05-1000155672httpshalflifehackclub-assetscomhackclub)
 
 ## Design
 
@@ -27,11 +27,13 @@ I tried to understand the basics of KiCAD and how to place the components in the
 
 [Timelapse](https://lookout.hackclub.com/api/media/ce72520b-664d-4dcd-85bb-09707065056e/video.mp4)
 
-### 2026-10-05 — Figured out how to get the star shape (after an INCREDIBLE amount of trial and error). Arranged the components onto the star shape and connected them. The star is easier to draw if I use a polygon ins
+### 2026-10-05 — ![1000155672](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/92251555f3957d78a70c01924e71d22dd3e241a4bb779d50a810ba5f92f82fa7.jpg)
 
-**1.5h**
+**2h**
 
-Figured out how to get the star shape (after an INCREDIBLE amount of trial and error). Arranged the components onto the star shape and connected them. The star is easier to draw if I use a polygon instead of the line tool as i discovered after a bit of struggling. Connecting the wires was fairly straightforward. Following this,  I browsed the internet for the parts that might be necessary and created the rough parts list (subject to change). This served to be quite a challenge as getting the materials where I live might be slightly over the allocated budget (I will continue looking into it). I also got stuck with the programming because I was unsure how to proceed, therefore, I watched a few youtube tutorials
+![1000155672](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/92251555f3957d78a70c01924e71d22dd3e241a4bb779d50a810ba5f92f82fa7.jpg)
+
+Figured out how to get the star shape (after an INCREDIBLE amount of trial and error). Arranged the components onto the star shape and connected them. The star is easier to draw if I use a polygon instead of the line tool as i discovered after a bit of struggling. Connecting the wires was fairly straightforward. Following this,  I browsed the internet for the parts that might be necessary and created the rough parts list (subject to change). This served to be quite a challenge as getting the materials where I live might be slightly over the allocated budget (I will continue looking into it). I also got stuck with the programming because I was unsure how to proceed, therefore, I watched a few youtube tutorials and set up the app on my laptop. Now that I've understood the basic aspects tomorrow I'll start working on Sunbie!!
 
 ![Annotation 2026-10-06 193950](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/c0ef0aedc78d78b1554fe8b5dc301de032fe45cc16604ef1f4aac66d3cdb1e66.png)
 
