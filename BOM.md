@@ -22,7 +22,7 @@
 | [Polycrystalline solar cell 5.5V 100mA 0.55W](https://www.electrokit.com/polykristallin-solcell-5.5v-100ma-0.5w) | Solar panel, my project utilises solar energy in order to power the sun-bie | 1 | $5.91 | $5.91 | [electro:kit](https://www.electrokit.com/polykristallin-solcell-5.5v-100ma-0.5w) |
 | [Battery LiPo 3.7V 2000mAh - JST-PH](https://www.electrokit.com/en/batteri-lipo-3.7v-2000mah) | In order to store the solar energy | 1 | $16.94 | $16.94 | [electro:kit](https://www.electrokit.com/en/batteri-lipo-3.7v-2000mah) |
 | **Parts subtotal** | — | — | — | **$56.45** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$56.45** | — |
+| **Tax & shipping** | — | — | — | **$3.00** | — |
+| **Total** | — | — | — | **$59.45** | — |
 
-**$26.45 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$29.45 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
