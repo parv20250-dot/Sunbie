@@ -19,10 +19,9 @@
 | [Pin strip 2.54mm 1x40p breakable](https://www.electrokit.com/stiftlist-2.54mm-1x40p-brytbar) | Connect components together | 1 | $0.95 | $0.95 | [electro:kit](https://www.electrokit.com/stiftlist-2.54mm-1x40p-brytbar) |
 | [Resistor](https://www.electrokit.com/motstand-kolfilm-0.25w-4.7kohm-4k) | Resistor for DHT11 data line,limits power supply | 1 | $0.10 | $0.10 | [electro:kit](https://www.electrokit.com/motstand-kolfilm-0.25w-4.7kohm-4k) |
 | [USB-C charging module](https://www.electrokit.com/usb-c-laddarmodul-tp4056-for-li-ion/lipo-1a) | Handles solar input | 1 | $6.92 | $6.92 | [electro:kit](https://www.electrokit.com/usb-c-laddarmodul-tp4056-for-li-ion/lipo-1a) |
-| [Polycrystalline solar cell 5.5V 100mA 0.55W](https://www.electrokit.com/polykristallin-solcell-5.5v-100ma-0.5w) | Solar panel, my project utilises solar energy in order to power the sun-bie | 1 | $5.91 | $5.91 | [electro:kit](https://www.electrokit.com/polykristallin-solcell-5.5v-100ma-0.5w) |
 | [Battery LiPo 3.7V 2000mAh - JST-PH](https://www.electrokit.com/en/batteri-lipo-3.7v-2000mah) | In order to store the solar energy | 1 | $16.94 | $16.94 | [electro:kit](https://www.electrokit.com/en/batteri-lipo-3.7v-2000mah) |
-| **Parts subtotal** | — | — | — | **$56.45** | — |
+| **Parts subtotal** | — | — | — | **$50.54** | — |
 | **Tax & shipping** | — | — | — | **$3.00** | — |
-| **Total** | — | — | — | **$59.45** | — |
+| **Total** | — | — | — | **$53.54** | — |
 
-**$29.45 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$23.54 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
