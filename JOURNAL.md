@@ -16,7 +16,7 @@
 
 1. [2026-10-05 — I tried to understand the basics of KiCAD and how to place the components in the schematic editor. I struggled a little to figure out the basics (such as placing wires and importing footprints). I lea](#2026-10-05-i-tried-to-understand-the-basics-of-kicad-and-how)
 2. [2026-10-05 — ![1000155672](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/92251555f3957d78a70c01924e71d22dd3e241a4bb779d50a810ba5f92f82fa7.jpg)](#2026-10-05-1000155672httpshalflifehackclub-assetscomhackclub)
-3. [2026-10-07 — Work session](#2026-10-07-work-session)
+3. [2026-10-07 — ![sunbie](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/e633d0ca95bd04b82694cd7f2aae70178e3918dc8a1ee79337c0de82a536634e.png)](#2026-10-07-sunbiehttpshalflifehackclub-assetscomhackclub-hal)
 
 ## Design
 
@@ -42,9 +42,13 @@ Figured out how to get the star shape (after an INCREDIBLE amount of trial and e
 
 [Timelapse](https://lookout.hackclub.com/api/media/4497196b-80ec-4300-9997-694cf8f50fdf/video.mp4)
 
-### 2026-10-07 — Work session
+### 2026-10-07 — ![sunbie](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/e633d0ca95bd04b82694cd7f2aae70178e3918dc8a1ee79337c0de82a536634e.png)
 
 **1.12h**
+
+![sunbie](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/e633d0ca95bd04b82694cd7f2aae70178e3918dc8a1ee79337c0de82a536634e.png)
+
+Work session
 
 [Timelapse](https://lookout.hackclub.com/api/media/b161d0c8-14ad-42c0-9ec3-8f8ae6f386c0/video.mp4)
 
