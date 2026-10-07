@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 4.54h | 3 |
+| Week 1 | Tier 1 | 4.79h | 3 |
 
 ## Contents
 
@@ -44,7 +44,7 @@ Figured out how to get the star shape (after an INCREDIBLE amount of trial and e
 
 ### 2026-10-07 — ![sunbie](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/e633d0ca95bd04b82694cd7f2aae70178e3918dc8a1ee79337c0de82a536634e.png)
 
-**1.12h**
+**1.37h**
 
 ![sunbie](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/e633d0ca95bd04b82694cd7f2aae70178e3918dc8a1ee79337c0de82a536634e.png)
 
