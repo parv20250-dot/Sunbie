@@ -15,12 +15,11 @@
 | [0.96" OLED 128x64px I2C blue](https://www.electrokit.com/lcd-oled-0.96128x64px-i2c-ssd1306) | Display in order to showcase reactions and responses. | 1 | $7.91 | $7.91 | [electro:kit](https://www.electrokit.com/lcd-oled-0.96128x64px-i2c-ssd1306) |
 | [Cherry MX blue switch](https://www.electrokit.com/cherry-mx-blue-switch) | Interaction with the device | 2 | $1.95 | $3.90 | [electro:kit](https://www.electrokit.com/cherry-mx-blue-switch) |
 | [DHT-11 temperature and humidity sensor](https://www.electrokit.com/temp/fuktsensor-dht11) | It senses differences in the surroundings which will prompt the starbie to react. | 1 | $3.91 | $3.91 | [electro:kit](https://www.electrokit.com/temp/fuktsensor-dht11) |
-| [Pin strip 2.54mm 1x40p breakable](https://www.electrokit.com/stiftlist-2.54mm-1x40p-brytbar) | Connect components together | 1 | $0.95 | $0.95 | [electro:kit](https://www.electrokit.com/stiftlist-2.54mm-1x40p-brytbar) |
 | [Resistor](https://www.electrokit.com/motstand-kolfilm-0.25w-4.7kohm-4k) | Resistor for DHT11 data line,limits power supply | 1 | $0.10 | $0.10 | [electro:kit](https://www.electrokit.com/motstand-kolfilm-0.25w-4.7kohm-4k) |
 | [ADXL345 - I2C SPI](https://www.electrokit.com/adxl345-accelerometer-3-axel-monterad-pa-kort) | Accelerometer(motion sensor) it detects motion allowing for the Sunbie to react | 1 | $6.90 | $6.90 | [electro:kit](https://www.electrokit.com/adxl345-accelerometer-3-axel-monterad-pa-kort) |
 | [ESP32-C3 development board mini 4MB](https://www.electrokit.com/utvecklingskort-esp32-c3) | Micprocessor, main control of Sunbie | 1 | $7.90 | $7.90 | [electro:kit](https://www.electrokit.com/utvecklingskort-esp32-c3) |
-| **Parts subtotal** | — | — | — | **$31.57** | — |
+| **Parts subtotal** | — | — | — | **$30.62** | — |
 | **Tax & shipping** | — | — | — | **$3.00** | — |
-| **Total** | — | — | — | **$34.57** | — |
+| **Total** | — | — | — | **$33.62** | — |
 
-**$4.57 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$3.62 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
