@@ -12,7 +12,6 @@
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
-| [Cherry MX blue switch](https://www.electrokit.com/cherry-mx-blue-switch) | Interaction with the device | 2 | $1.95 | $3.90 | [electro:kit](https://www.electrokit.com/cherry-mx-blue-switch) |
 | [DHT-11 temperature and humidity sensor](https://www.electrokit.com/temp/fuktsensor-dht11) | It senses differences in the surroundings which will prompt the starbie to react. | 1 | $3.91 | $3.91 | [electro:kit](https://www.electrokit.com/temp/fuktsensor-dht11) |
 | [Resistor](https://www.electrokit.com/motstand-kolfilm-0.25w-4.7kohm-4k) | Resistor for DHT11 data line | 1 | $0.10 | $0.10 | [electro:kit](https://www.electrokit.com/motstand-kolfilm-0.25w-4.7kohm-4k) |
 | [ADXL345 - I2C SPI](https://www.electrokit.com/adxl345-accelerometer-3-axel-monterad-pa-kort) | Accelerometer(motion sensor) it detects motion allowing for the Sunbie to react | 1 | $6.90 | $6.90 | [electro:kit](https://www.electrokit.com/adxl345-accelerometer-3-axel-monterad-pa-kort) |
@@ -21,8 +20,8 @@
 | [pcb](https://jlcpcb.com/) | Main part/base of whole pcb | 1 | $4.00 | $4.00 | [jlc pcb](https://jlcpcb.com/) |
 | [Passive piezo buzzer 70dB PS12 PCB ø12x6.5mm](https://www.electrokit.com/passiv-piezosummer-70db-pcb-12x6.5mm) | play sound alongside reactions | 1 | $0.75 | $0.75 | [electro:kit](https://www.electrokit.com/passiv-piezosummer-70db-pcb-12x6.5mm) |
 | [WS Standard Linear Switch](https://www.maxgaming.se/sv/switchar/ws-standard-linear-switch) | Interaction with the device | 2 | $0.15 | $0.30 | [Max Gaming](https://www.maxgaming.se/sv/switchar/ws-standard-linear-switch) |
-| **Parts subtotal** | — | — | — | **$34.26** | — |
+| **Parts subtotal** | — | — | — | **$30.36** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$34.26** | — |
+| **Total** | — | — | — | **$30.36** | — |
 
-**$4.26 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$0.36 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
