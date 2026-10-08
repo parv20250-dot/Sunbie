@@ -21,7 +21,7 @@
 | [Passive piezo buzzer 70dB PS12 PCB ø12x6.5mm](https://www.electrokit.com/passiv-piezosummer-70db-pcb-12x6.5mm) | play sound alongside reactions | 1 | $0.75 | $0.75 | [electro:kit](https://www.electrokit.com/passiv-piezosummer-70db-pcb-12x6.5mm) |
 | [WS Standard Linear Switch](https://www.maxgaming.se/sv/switchar/ws-standard-linear-switch) | Interaction with the device | 2 | $0.15 | $0.30 | [Max Gaming](https://www.maxgaming.se/sv/switchar/ws-standard-linear-switch) |
 | **Parts subtotal** | — | — | — | **$30.36** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$30.36** | — |
+| **Tax & shipping** | — | — | — | **$2.00** | — |
+| **Total** | — | — | — | **$32.36** | — |
 
-**$0.36 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$2.36 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
