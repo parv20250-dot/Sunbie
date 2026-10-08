@@ -21,7 +21,7 @@
 | [pcb](https://jlcpcb.com/) | Main part/base of whole pcb | 1 | $4.00 | $4.00 | [jlc pcb](https://jlcpcb.com/) |
 | [Passive piezo buzzer 70dB PS12 PCB ø12x6.5mm](https://www.electrokit.com/passiv-piezosummer-70db-pcb-12x6.5mm) | play sound alongside reactions | 1 | $0.75 | $0.75 | [electro:kit](https://www.electrokit.com/passiv-piezosummer-70db-pcb-12x6.5mm) |
 | **Parts subtotal** | — | — | — | **$33.96** | — |
-| **Tax & shipping** | — | — | — | **$3.00** | — |
-| **Total** | — | — | — | **$36.96** | — |
+| **Tax & shipping** | — | — | — | **$0.00** | — |
+| **Total** | — | — | — | **$33.96** | — |
 
-**$6.96 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$3.96 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
