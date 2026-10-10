@@ -13,8 +13,11 @@ pet her or (if she's sick) give her meds.
 A 3d visual of the device on Kicad
 
 Why was this made?
+
 This was made as a part of Hack Club's Half Life programme.
+
 Who is the sprite?
+
 The sprite (pet) can be set to anything the user desires by changing the Bit Image in the source code. However, I use a fox.
 inspired by the image below.
 <img width="91" height="96" alt="Annotation 2026-10-10 102953 (2)" src="https://github.com/user-attachments/assets/6004e3a8-292f-489c-bfd6-f32ab7e495ad" />
