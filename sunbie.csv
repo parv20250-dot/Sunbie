@@ -1,0 +1,8 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"BZ1";"Buzzer_12x9.5RM7.6";1;"Buzzer";;;
+2;"J1";"PinHeader_1x08_P2.54mm_Vertical";1;"Conn_01x08_Pin";;;
+3;"J2";"Display_128x64_096_I2C";1;"Conn_01x04_Pin";;;
+4;"R1";"R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal";1;"R";;;
+5;"SW1, SW2";"SW_Cherry_MX_1.00u_PCB";2;"SW_Push";;;
+6;"U1";"Waveshare-ESP32-C3-Zero";1;"~";;;
+7;"U2";"Aosong_DHT11_5.5x12.0_P2.54mm";1;"DHT11";;;
