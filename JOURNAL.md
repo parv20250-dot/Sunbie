@@ -118,6 +118,11 @@ hour 6+ : Going over my code, debugging and logic checking
 
 I did use AI to explain what I should be doing to me (cuz I'm beginner-ish at coding, I have some prior coding experience but none in Arduino).However, I have done all of the coding myself,by hand, I typed out everything myself (I didn't copy the beginner file as it is).
 
+NOTE- I did my coding on VS cuz i couldn't for the life of me link hackatime to Arduino (the code was then copypasted)
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/ea0857a3b56b7eb699f24803389f7ea8dbd0d7333bbbfdba40ad80dbcbe43536.png)
+Hopefully this means it worked!!
+
 Sorry for the long entry, since I don't have a lapse to like backup my hours on the firmware (I was told to use hackatime instead) I'm lowk  terrified I didn't explain enough ToT.
 
 Thank you, partcipating in project was loads of fun and I learnt lots hehe.
