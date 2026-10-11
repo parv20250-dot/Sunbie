@@ -135,7 +135,7 @@ AND THAS THE END OF THE SUNBIE WOOOOOOOOO, IT'S A WRAPPP
 
 I added everything to github and as you all can see I'm new to this stuff.....VERY NEW. (the ino.ino is prolly a dead giveaway). I also uploaded the Gerber and drill files, worked on my Read me and STRUGGLED to figure out what a csv is before I later realized I can just create an excel sheet (or even have KiCAD make one for me then add deets)
 
-And thas the end of Sunbie till next timeee
+And thas the end of Sunbie till next timeee (I am not sure about my first few journals, however I was not sure what I can include/exclude, my apologies in advance to whichever poor soul has to go through em)
 Adios
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/a73b6bcde1ad08dd87ca8ac3dfb91a88b5bd4441d7710ed9bd9a4f42db9afa6e.png)
