@@ -10,37 +10,14 @@ pet her or (if she's sick) give her meds. You look after it by tilting the devic
 <img width="472" height="405" alt="image" src="https://github.com/user-attachments/assets/873c6659-78f3-4cf9-9953-49e0ebe6bcdf" />
 <img width="453" height="425" alt="image" src="https://github.com/user-attachments/assets/4ae8e494-6ba1-4fd6-9915-67e0d28b10f1" />
 
-Menu effects
-Action
-Joy
-Energy
-Fullness
-Health
-Nap
-+1
-+18
-−4
-+3
-Play
-+12
-−9
-−5
-−4
-Feed
-+3
-−2
-+15
-+1
-Pet
-+7
-+2
-0
-0
-Meds
-−7
-−3
-0
-+7
+| Action | Joy | Energy | Fullness | Health |
+|---|---|---|---|---|
+| Nap | +1 | +18 | −4 | +3 |
+| Play | +12 | −9 | −5 | −4 |
+| Feed | +3 | −2 | +15 | +1 |
+| Pet | +7 | +2 | 0 | 0 |
+| Meds | −7 | −3 | 0 | +7 |
+
 
 A 3d visual of the device on Kicad
 
