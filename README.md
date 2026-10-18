@@ -33,5 +33,18 @@ inspired by the image below.
 
 The code is written in C++ Arduino framework and uses an SSDI306 OLED to display the fox and menu, an ADXL345 in order to detect tilts and also detect shaking (shake/dizzy pet reactions), a DHT11 for temperature and humidity readings and temperature reactions, and a buzzer for sounds. The pet is saved, it can be reset by setting RESET_SAVED_PET to true,uploading it and then setting it to false again!!
 
+|Item|Part_Name                                                      |Description                                                                    |Quantity|Unit_Cost|Total_Cost|Supplier   |
+|----|---------------------------------------------------------------|-------------------------------------------------------------------------------|--------|---------|----------|-----------|
+|1   |DHT-11 temperature and humidity sensor                         |It senses differences in the surroundings which react.                         |1       |3.91     |3.91      |electro:kit|
+|2   |Resistor                                                       |Resistor for DHT11 data line                                                   |1       |0.10     |0.10      |electro:kit|
+|3   |ADXL345 - I2C SPI                                              |Accelerometer(motion sensor) it detects motion allowing for the Sunbie to react|1       |6.90     |6.90      |electro:kit|
+|4   |ESP32-C3 developmentboard mini 4MB                             |The main controls,microprocessor in sunbie                                     |1       |7.90     |7.90      |electro:kit|
+|5   |OLED Display 0.96 inch I2C 128x64 pixels for RPi/Arduino/Atmega|Display for sunbie, allows it to show responses                                |1       |6.50     |6.50      |jmux.se    |
+|6   |pcb                                                            |Main part/base of whole pcb                                                    |1       |4.00     |4.00      |jlc pcb    |
+|7   |Passive piezo buzzer 70dB PS12 PCB ø12x6.5mm                   |play sound alongside reactions                                                 |1       |0.75     |0.75      |electro:kit|
+|8   |WS Standard Linear Switch                                      |Interaction with the device                                                    |2       |0.15     |0.30      |Max Gaming |
+|9   |Tax & shipping                                                 |for the whole order                                                            |-       |-        |2.00      |-          |
+
+
 Credits
 Made for Hack Club-Half Life
