@@ -142,7 +142,3 @@ Evidence of how new I am (I decided to leave it in cuz I found it HILARIOUS)
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/d23a0cea232ae89ac66b36fdd91923f05eb8a809e0255b106549465222929359.png)
 The read me I spend 10 mins overthinking
-
-19/10/26- Changed position of esp 32 and wired again, I also had to in turn reupload all the files.
-
-![pcb new](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/e865d7181aa2048b60827149582ff499ef554708c795d700e5f6863b83b70611.png)
