@@ -151,5 +151,9 @@ The read me I spend 10 mins overthinking
 19/10/26- Changed position of esp 32 and wired the whole thing again (this took a while as I had to move around stuff a lot before I found an arrangement that worked) again, I also had to in turn reupload all the files.
 
 ![pcb new](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/e865d7181aa2048b60827149582ff499ef554708c795d700e5f6863b83b70611.png)
+NEW ONE
 
 ![1000161223](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/3f94c31bcb313cd43880f93151ffc7c15bde98bac64b83533a9c871b42e9e220.jpg)
+OLD ONE
+
+![Annotation 2026-10-19 183023](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/8442f5aae0fdebb27393d2ec37b314b0b1a1991b9263cb5ef30162a80c0a5c6f.png)
