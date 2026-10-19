@@ -4,7 +4,7 @@
 <!-- Generated: 2026-10-11T15:14:33.868Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuv00tt10c0l01smfirfs1t2). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
 > A tiny motion-controlled digital pet, basically a desktop Tamagotchi. It has several different reactions and ways you can control and interact with it.
 
@@ -15,7 +15,7 @@
 ## Contents
 
 1. [2026-10-05 – I tried to understand the basics of KiCAD and how to place the components in the schematic editor. I struggled a little to figure out the basics (such as placing wires and importing footprints). I lea](#2026-10-05-i-tried-to-understand-the-basics-of-kicad-and-how)
-2. [2026-10-05 – ![1000155672](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/92251555f3957d78a70c01924e71d22dd3e241a4bb779d50a810ba5f92f82fa7.jpg)](#2026-10-05-1000155672httpshalflifehackclub-assetscomhackclub)
+2. [2026-10-05 – ![1000160287](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/4998261760e684e1fb292ee8e5e20e86ee795da7016d62cf56a2b3d2f41b8f62.jpg)](#2026-10-05-1000160287httpshalflifehackclub-assetscomhackclub)
 3. [2026-10-07 – ![sunbie](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/e633d0ca95bd04b82694cd7f2aae70178e3918dc8a1ee79337c0de82a536634e.png)](#2026-10-07-sunbiehttpshalflifehackclub-assetscomhackclub-hal)
 4. [2026-10-07 – Work session](#2026-10-07-work-session)
 5. [2026-10-09 – Work session](#2026-10-09-work-session)
@@ -33,12 +33,11 @@ I tried to understand the basics of KiCAD and how to place the components in the
 
 [Timelapse](https://lookout.hackclub.com/api/media/ce72520b-664d-4dcd-85bb-09707065056e/video.mp4)
 
-### 2026-10-05 – ![1000155672](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/92251555f3957d78a70c01924e71d22dd3e241a4bb779d50a810ba5f92f82fa7.jpg)
+### 2026-10-05 – ![1000160287](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/4998261760e684e1fb292ee8e5e20e86ee795da7016d62cf56a2b3d2f41b8f62.jpg)
 
 **2h**
 
-![1000155672](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/92251555f3957d78a70c01924e71d22dd3e241a4bb779d50a810ba5f92f82fa7.jpg)
-
+![1000160287](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/4998261760e684e1fb292ee8e5e20e86ee795da7016d62cf56a2b3d2f41b8f62.jpg)
 Figured out how to get the star shape (after an INCREDIBLE amount of trial and error). Arranged the components onto the star shape and connected them. The star is easier to draw if I use a polygon instead of the line tool as i discovered after a bit of struggling. Connecting the wires was fairly straightforward. Following this,  I browsed the internet for the parts that might be necessary and created the rough parts list (subject to change). This served to be quite a challenge as getting the materials where I live might be slightly over the allocated budget (I will continue looking into it). I also got stuck with the programming because I was unsure how to proceed, therefore, I watched a few youtube tutorials and set up the app on my laptop. Now that I've understood the basic aspects tomorrow I'll start working on Sunbie!!
 
 ![Annotation 2026-10-06 193950](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/c0ef0aedc78d78b1554fe8b5dc301de032fe45cc16604ef1f4aac66d3cdb1e66.png)
@@ -143,3 +142,7 @@ Evidence of how new I am (I decided to leave it in cuz I found it HILARIOUS)
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/d23a0cea232ae89ac66b36fdd91923f05eb8a809e0255b106549465222929359.png)
 The read me I spend 10 mins overthinking
+
+19/10/26- Changed position of esp 32 and wired again, I also had to in turn reupload all the files.
+
+![pcb new](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/e865d7181aa2048b60827149582ff499ef554708c795d700e5f6863b83b70611.png)

@@ -1,0 +1,10 @@
+Item,Qty,Supplier,Cost/item,Total Cost,link
+DHT-11 temperature and humidity sensor,1,electro:kit,$3.91,$3.91,https://www.electrokit.com/temp/fuktsensor-dht11
+Resistor,1,electro:kit,$0.10,$0.10,https://www.electrokit.com/motstand-10kohm-0.1w-smd-0603
+ADXL345 - I2C SPI,1,electro:kit,$6.90,$6.90,https://www.electrokit.com/adxl345-accelerometer-3-axel-monterad-pa-kort
+ESP32-C3 developmentboard mini 4MB,1,electro:kit,$7.90,$7.90,https://www.electrokit.com/utvecklingskort-esp32-c3
+"OLED Display 0.96 inch I2C, 128x64 pixels for RPi/Arduino/Atmega",1,jmux.se,$6.50,$6.50,https://jmux.se/products/oled-display-0-96-inch-i2c-128x64-pixlar-for-rpi-arduino-atmega?_pos=1&_psq=0.96%22+OLED+128x64px+I2C&_psid=8185eb917&_ss=e
+pcb,1,jlc pcb,$4.00,$4.00,https://jlcpcb.com/
+Passive piezo buzzer 70dB PS12 PCB ø12x6.5mm,1,electro:kit,$0.75,$0.75,https://www.electrokit.com/passiv-piezosummer-70db-pcb-12x6.5mm
+WS Standard Linear Switch,2,Max Gaming,$0.15,$0.30,https://www.maxgaming.se/sv/switchar/ws-standard-linear-switch
+Estimated total shipping,1,,,$2.00,
