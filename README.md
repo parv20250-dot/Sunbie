@@ -5,10 +5,11 @@ It uses sensors such as the ADXL345 and the DHT11 so as to gather data from the 
 that responds to any changes in the temperature. The accelerometer enables the user to interact with the sprite so as to feed her, play with her,
 pet her or (if she's sick) give her meds. You look after it by tilting the device to pick actions from a menu.
 
-<img width="407" height="353" alt="image" src="https://github.com/user-attachments/assets/a2cab186-5890-4097-b109-2d365a4b7186" />
 
-<img width="472" height="405" alt="image" src="https://github.com/user-attachments/assets/873c6659-78f3-4cf9-9953-49e0ebe6bcdf" />
-<img width="453" height="425" alt="image" src="https://github.com/user-attachments/assets/4ae8e494-6ba1-4fd6-9915-67e0d28b10f1" />
+<img width="382" height="317" alt="pcb new 2" src="https://github.com/user-attachments/assets/aacaa1a9-850a-4469-9fc8-4bae0f72e7b5" />
+<img width="502" height="404" alt="pcb new" src="https://github.com/user-attachments/assets/43d870f1-d3d4-4000-b00f-3ed92e246a1f" />
+<img width="425" height="350" alt="Annotation 2026-10-19 183023" src="https://github.com/user-attachments/assets/4f852dbb-0246-47a1-85ca-e36f9cff522f" />
+
 
 | Action | Joy | Energy | Fullness | Health |
 |---|---|---|---|---|
@@ -29,6 +30,7 @@ Who is the sprite?
 
 The sprite (pet) can be set to anything the user desires by changing the Bit Image in the source code. However, I use a fox.
 inspired by the image below.
+
 <img width="91" height="96" alt="Annotation 2026-10-10 102953 (2)" src="https://github.com/user-attachments/assets/6004e3a8-292f-489c-bfd6-f32ab7e495ad" />
 
 The code is written in C++ Arduino framework and uses an SSDI306 OLED to display the fox and menu, an ADXL345 in order to detect tilts and also detect shaking (shake/dizzy pet reactions), a DHT11 for temperature and humidity readings and temperature reactions, and a buzzer for sounds. The pet is saved, it can be reset by setting RESET_SAVED_PET to true,uploading it and then setting it to false again!!
