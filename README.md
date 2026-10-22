@@ -7,8 +7,10 @@ pet her or (if she's sick) give her meds. You look after it by tilting the devic
 
 
 <img width="382" height="317" alt="pcb new 2" src="https://github.com/user-attachments/assets/aacaa1a9-850a-4469-9fc8-4bae0f72e7b5" />
-<img width="502" height="404" alt="pcb new" src="https://github.com/user-attachments/assets/43d870f1-d3d4-4000-b00f-3ed92e246a1f" />
-<img width="425" height="350" alt="Annotation 2026-10-19 183023" src="https://github.com/user-attachments/assets/4f852dbb-0246-47a1-85ca-e36f9cff522f" />
+<img width="483" height="397" alt="Annotation 2026-10-22 135644" src="https://github.com/user-attachments/assets/69ed9cfa-b0d9-4de6-9bbe-8f7fc1d4341a" />
+<img width="418" height="368" alt="Annotation 2026-10-22 135615" src="https://github.com/user-attachments/assets/b47526b4-8fea-4532-8c8b-2923065ea7a3" />
+
+
 
 
 | Action | Joy | Energy | Fullness | Health |
