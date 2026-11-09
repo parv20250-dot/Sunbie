@@ -47,6 +47,7 @@ inspired by the image below.
 
 The code is written in C++ Arduino framework and uses an SSDI306 OLED to display the fox and menu, an ADXL345 in order to detect tilts and also detect shaking (shake/dizzy pet reactions), a DHT11 for temperature and humidity readings and temperature reactions, and a buzzer for sounds. The pet is saved, it can be reset by setting RESET_SAVED_PET to true,uploading it and then setting it to false again!!
 
+## BOM
 |Item|Part_Name                                                      |Description                                                                    |Quantity|Unit_Cost|Total_Cost|Supplier   |
 |----|---------------------------------------------------------------|-------------------------------------------------------------------------------|--------|---------|----------|-----------|
 |1   |DHT-11 temperature and humidity sensor                         |It senses differences in the surroundings which react.                         |1       |3.91     |3.91      |electro:kit|
