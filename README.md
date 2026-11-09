@@ -1,4 +1,4 @@
-#Sunbie
+# Sunbie
 
 Sunbie is a Tamagotchi inspired product that utilises a Waveshare ESP 32- C3 microprocessor.
 It uses sensors such as the ADXL345 and the DHT11 so as to gather data from the environment, it also has a sprite (in this case a fox) 
@@ -24,11 +24,11 @@ pet her or (if she's sick) give her meds. You look after it by tilting the devic
 
 A 3d visual of the device on Kicad
 
-Why was this made?
+## Why was this made?
 
 This was made as a part of Hack Club's Half Life programme.
 
-Who is the sprite?
+## Who is the sprite?
 
 The sprite (pet) can be set to anything the user desires by changing the Bit Image in the source code. However, I use a fox.
 inspired by the image below.
@@ -50,5 +50,5 @@ The code is written in C++ Arduino framework and uses an SSDI306 OLED to display
 |9   |Tax & shipping                                                 |for the whole order                                                            |-       |-        |2.00      |-          |
 
 
-Credits
+## Credits
 Made for Hack Club-Half Life
