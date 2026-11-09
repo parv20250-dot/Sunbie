@@ -20,6 +20,8 @@ pet her or (if she's sick) give her meds. You look after it by tilting the devic
 
 The above image contains the schematic that the PCB diagram is made with reference to,  labels have been used for different nets so as to make the schematic look cleaner.
 
+## Actions
+
 
 | Action | Joy | Energy | Fullness | Health |
 |---|---|---|---|---|
