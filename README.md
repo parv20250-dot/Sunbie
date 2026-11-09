@@ -5,12 +5,20 @@ It uses sensors such as the ADXL345 and the DHT11 so as to gather data from the 
 that responds to any changes in the temperature. The accelerometer enables the user to interact with the sprite so as to feed her, play with her,
 pet her or (if she's sick) give her meds. You look after it by tilting the device to pick actions from a menu.
 
-
+## PCB Diagram and 3d view
 <img width="382" height="317" alt="pcb new 2" src="https://github.com/user-attachments/assets/aacaa1a9-850a-4469-9fc8-4bae0f72e7b5" />
+
+
 <img width="483" height="397" alt="Annotation 2026-10-22 135644" src="https://github.com/user-attachments/assets/69ed9cfa-b0d9-4de6-9bbe-8f7fc1d4341a" />
+
+
 <img width="418" height="368" alt="Annotation 2026-10-22 135615" src="https://github.com/user-attachments/assets/b47526b4-8fea-4532-8c8b-2923065ea7a3" />
 
+## Schematic
 
+<img width="575" height="323" alt="image" src="https://github.com/user-attachments/assets/64201c1b-918a-4c77-af43-c01141430028" />
+
+The above image contains the schematic that the PCB diagram is made with reference to,  labels have been used for different nets so as to make the schematic look cleaner.
 
 
 | Action | Joy | Energy | Fullness | Health |
