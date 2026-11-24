@@ -4,7 +4,7 @@ ESP32-C3 developmentboard mini 4MB,1,electro:kit,$7.12,$7.12,HC,https://www.elec
 OLED Display 0.96 inch I2C 128x64,1,electro:kit,$6.32,$6.32,HC,https://www.electrokit.com/lcd-oled-0.96128x64px-i2c-ssd1306
 Passive piezo buzzer 70dB PS12 PCB,1,electro:kit,$1.20,$1.20,HC,https://www.electrokit.com/passiv-piezosummer-70db-pcb-12x6.5mm
 WS Standard Linear Switch,2,Max Gaming,$0.15,$0.30,HC,https://www.maxgaming.se/sv/switchar/ws-standard-linear-switch
-PCB,1,JLCPCB,TBD,TBD,Self,TBD
-10kΩ Resistor,1,electro:kit,TBD,TBD,Self,TBD
+PCB,1,JLCPCB,4,4,Self,https://jlcpcb.com/
+10kΩ Resistor,1,electro:kit,0.10,0.10,Self,https://www.electrokit.com/motstand-kolfilm-0.25w-10kohm-10k
 DHT11 Temperature and Humidity Sensor,1,electro:kit,TBD,TBD,HC,TBD
 Estimated total shipping,1,,$11.74,$11.74,HC,
