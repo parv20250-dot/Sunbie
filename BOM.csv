@@ -1,5 +1,4 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
-Resistor,1,electro:kit,$0.10,$0.10,https://www.electrokit.com/motstand-10kohm-0.1w-smd-0603
 ADXL345 - I2C SPI,1,electro:kit,$6.90,$6.90,https://www.electrokit.com/adxl345-accelerometer-3-axel-monterad-pa-kort
 ESP32-C3 developmentboard mini 4MB,1,electro:kit,$7.90,$7.90,https://www.electrokit.com/utvecklingskort-esp32-c3
 "OLED Display 0.96 inch I2C, 128x64 pixels for RPi/Arduino/Atmega",1,electro:kit,$6.32,$6.32,https://www.electrokit.com/lcd-oled-0.96128x64px-i2c-ssd1306
