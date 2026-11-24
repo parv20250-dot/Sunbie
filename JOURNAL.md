@@ -44,9 +44,9 @@ Figured out how to get the star shape (after an INCREDIBLE amount of trial and e
 
 ![Annotation 2026-10-06 193950](https://halflife.hackclub-assets.com/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/c0ef0aedc78d78b1554fe8b5dc301de032fe45cc16604ef1f4aac66d3cdb1e66.png)
 
-[Timelapse](https://lookout.hackclub.com/api/media/c0c7d37a-8991-4613-9339-14d19b9ba238/video.mp4)
-
 [Timelapse](https://lookout.hackclub.com/api/media/4497196b-80ec-4300-9997-694cf8f50fdf/video.mp4)
+
+[Timelapse](https://lookout.hackclub.com/api/media/c0c7d37a-8991-4613-9339-14d19b9ba238/video.mp4)
 
 ### 2026-10-07: ![sunbie](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/e633d0ca95bd04b82694cd7f2aae70178e3918dc8a1ee79337c0de82a536634e.png)
 
@@ -87,10 +87,10 @@ Finding an image for the fox sprite and converting it into BMP in a manner that 
 **1h**
 
 Firmware
-This entry details my actions on the firmware, the modifications I have made and what I spend my coding hours on.  I had to swap out the Xiao ESP32-CS to waveshare ESP-32-C3-zero and also change on of the sensors the accelerometer from MPU6050 to an ADXL345 for cost reasons. This meant that I had to go through the code and make several modifications to it in order to make it workable.
-I had the bright idea to add a health bar and then add another menu option. However, this genuinely was a hassle and a half to fix up because so many of the beginner code's menu options relied on there being 4 menu options. (the guide mentioned that but I thought it wouldn't be that bad ToT). Spoiler alert it very much was.
+This entry details my actions on the firmware, the modifications I have made and what I spend my coding hours on.  I had to swap out the Xiao ESP32-CS to waveshare ESP-32-C3-zero and also change on of the sensors the accelerometer from MPU6050 to an ADXL345 for cost reasons. This meant that I had to go through the code and make several modifications to it in order to make it workable. 
+I had the bright idea to add a health bar and then add another menu option. However, this genuinely was a hassle and a half to fix up because so many of the beginner code's menu options relied on there being 4 menu options. (the guide mentioned that but I thought it wouldn't be that bad ToT). Spoiler alert it very much was. 
 
-I also added new features and reactions because I felt like not much was being done with the DHT11 readings (they were just displayed on stats I believe). Therefore, I tried to add a too hot/too cold reaction.
+I also added new features and reactions because I felt like not much was being done with the DHT11 readings (they were just displayed on stats I believe). Therefore, I tried to add a too hot/too cold reaction. 
 
 ![pet tempearture and sick](https://halflife.hackclub-assets.com/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/e59babf5c2fefb833e259a543f9c12fe234537f0d64e2b84224e9210eeb00c2c.png)
 
@@ -99,12 +99,12 @@ I also added new features and reactions because I felt like not much was being d
 I also added a pieze passive buzzer which enabled me to add sounds to my Sunbie (I added notes to played on opening menu and notes with each reaction), which once again I VASTLY underestimated how long that would take ++ how hard that would be but I got it done (I think?)
 
 ![image](https://halflife.hackclub-assets.com/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/b46e45551953fe77d874cdcc0e09ea9fc5f60e08fcc4889308ef3043cc7e379f.png)
-Other than that I basically just went over the code, understood what it did and made modifications wherever necessary. I also added a musical notes special effect as I thought that would be fun.
+Other than that I basically just went over the code, understood what it did and made modifications wherever necessary. I also added a musical notes special effect as I thought that would be fun. 
 
 ![special effect](https://halflife.hackclub-assets.com/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/aecf0f6a602062fc834541afc64d1f229ba26fb9cc8aac568420a99d00443f64.png)
 
 THIS TIME HAS BEEN UPDATED UNDER "SOFTWARE" ON HACKATIME.
-hours 1-2: making modifications to the code wherever necessary and going over the whole code to ensure that I didn't miss anything ++ typing it out (I decided the most efficient way to make the changes I wanted was this ++ I wanted to practise making my own firmware instead of just copying the file)
+hours 1-2: making modifications to the code wherever necessary and going over the whole code to ensure that I didn't miss anything ++ typing it out (I decided the most efficient way to make the changes I wanted was this ++ I wanted to practise making my own firmware instead of just copying the file) 
 hours 3-4: Adding the additional effects that I wanted to add ++ bitmap images
 hours 5-6 : Adding sound effects and stuff
 hour 6+ : Going over my code, debugging and logic checking
@@ -152,7 +152,7 @@ The read me I spend 10 mins overthinking
 19/10/26- Changed position of esp 32 and wired the whole thing again (this took a while as I had to move around stuff a lot before I found an arrangement that worked) again, I also had to in turn reupload all the files.
 
 ![pcb new](https://halflife.hackclub-assets.com/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/e865d7181aa2048b60827149582ff499ef554708c795d700e5f6863b83b70611.png)
-NEW ONE
+NEW ONE 
 
 ![1000161223](https://halflife.hackclub-assets.com/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/3f94c31bcb313cd43880f93151ffc7c15bde98bac64b83533a9c871b42e9e220.jpg)
 OLD ONE
